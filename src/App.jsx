@@ -4,6 +4,7 @@ function App() {
   return (
     <div>
     <Ejercicio1 valor = "My Friend"/>
+    <p>Hola</p>
     </div>
   );
 }
